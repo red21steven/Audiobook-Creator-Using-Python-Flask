@@ -5,7 +5,11 @@ Never again will you feel bored by reading.
 
 To run this project first install all the packages mentioned in the requirements.txt file by using the following command
 
-> pip3 install -r requirements.txt  OR   pip install -r requirements.txt
+> pip3 install -r requirements.txt  
+
+OR
+
+> pip install -r requirements.txt
 
 OR
 
